@@ -1,9 +1,7 @@
 ## Bem-vindo(a) ao meu perfil! 😁
 
 📚 Estudante de Análise e Desenvolvimento de Sistemas.
-
 <br>
-
 🌱 Aprendendo HTML, CSS e JavaScript.
 
  <div>
